@@ -1,0 +1,78 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css");
+
+/*
+.container-fluid {
+    background-color: #04046b;
+}
+*/
+
+.div-menu {
+    background-color: white;
+}
+
+.border-bottom {
+    background-color: orange;
+}
+
+.text-bg-color {
+    color: white;
+}
+aside {
+    float: right;
+    height: 100%;
+    margin: 0;
+}
+
+footer {
+    height: 150px;
+}
+
+table tr th {
+    color: white;
+    border: 1px solid orange;
+    border-collapse: collapse;
+    padding: 15px;
+    border-spacing: 15px;
+}
+
+table tr td {
+    border: 1px solid orange;
+    border-collapse: collapse;
+    padding: 15px;
+    border-spacing: 15px;
+}
+
+#roster-row {
+    background-color: #04046b;
+}
+
+td > img {
+    height: 25%;
+    width: 25%;
+}
+
+footer {
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 4%;
+    color: #080707;
+}
+
+p {
+    font-size: 15px;
+    margin: 5px;
+    float: left;
+}
+
