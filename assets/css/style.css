@@ -108,6 +108,14 @@ h3 h4 {
     color: orange;
     margin: 0;
 }
+
+#elliot-desc {
+    color: orange;
+    margin: 0;
+    border: 10px;
+    border-color: orange;
+    background-color: black;
+}
 /*
 footer {
     height: 150px;
@@ -169,4 +177,25 @@ aside {
     border-collapse: collapse;
     padding: 15px;
     border-spacing: 15px;
+}
+#coaching-name {
+    color: orange;
+    background-color: black;
+}
+#roster-name {
+    color: orange;
+    background-color: black;
+    margin: 10px;
+}
+
+#roster-title {
+    color: orange;
+    background-color: black;
+    margin: 10px;
+}
+
+.team-pics {
+    border: 50px;
+    margin: 50px;
+    border: black;
 }
