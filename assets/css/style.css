@@ -22,6 +22,20 @@
     color: white;
 }
 
+#hero-outer {
+    height: 500px;
+    width: 100%;
+    overflow: hidden;
+
+    position: relative;
+
+    margin-bottom: 10px;
+}
+
+#cover-text, #cover-text h2 {
+    color: #fff;
+}
+
 #hero-image {
     height: 600px;
     width: 100%;
@@ -33,24 +47,42 @@
     font-family: Roboto, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
+    text-align: center;
 
-    width: 300px;
+    width: 350px;
     height: 200px;
 
     padding-top: 40px;
     padding-left: 10px;
-    background-color: rgba(241, 109, 107, 0.7);
+    background-color: rgba(23, 64, 189, 0.7);
 
     bottom: 30px;
-    right: 150px;
-
+    right: 10px;
     position: absolute;
 }
 
-aside {
-    float: right;
+.intro {
+    background-color: black;
+    color: orange;
+    font-family: Roboto, sans-serif;
+    margin: 0;
+}
+
+.news {
+    background-color: black;
     height: 100%;
     margin: 0;
+    border-right: 0;
+}
+.news h2 {
+    color: orange;
+}
+.game-news {
+    background-color: black;
+    color: orange;
+    height: 100%;
+    margin: 0;
+    border-left: 0;
 }
 
 .ish-pic {
@@ -89,7 +121,8 @@ td > img {
 }
 
 footer {
-    height: 150px;
+    height: 10px;
+    bottom: 20px;
 }
 
 .social-networks {
