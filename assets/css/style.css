@@ -6,6 +6,20 @@
     background-color: #04046b;
 }
 */
+P {
+    font-family: roboto, sans-serif;
+    font-weight: 400;
+}
+
+h1 h2 {
+    font-family: roboto, sans-serif;
+    font-weight: 700;
+}
+
+h3 h4 {
+    font-family: roboto, sans-serif;
+    font-weight: 500;
+}
 
 .div-menu {
     background-color: white;
@@ -50,9 +64,9 @@
     text-align: center;
 
     width: 350px;
-    height: 200px;
+    height: 170px;
 
-    padding-top: 40px;
+    padding-top: 10px;
     padding-left: 10px;
     background-color: rgba(23, 64, 189, 0.7);
 
