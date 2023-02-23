@@ -103,10 +103,19 @@ h3 h4 {
     height: 50%;
     width: 50%;
 }
+
+.coach-profile {
+    background-color: black;
+}
 .elliot-profile {
     background-color: black;
     color: orange;
     margin: 0;
+}
+
+#elliot-pic {
+    border-radius: 50%;
+    background-color: black;
 }
 
 #elliot-desc {
