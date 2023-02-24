@@ -125,11 +125,11 @@ h3 h4 {
     border-color: orange;
     background-color: black;
 }
-/*
-footer {
-    height: 150px;
+
+.footer-div {
+    border-color: orange;
 }
-*/
+
 
 table tr th {
     color: white;
