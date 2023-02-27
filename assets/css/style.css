@@ -150,6 +150,10 @@ table tr td {
     background-color: #04046b;
 }
 
+#training-row {
+    background-color: #04046b;
+}
+
 td > img {
     height: 25%;
     width: 25%;
